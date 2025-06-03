@@ -1,0 +1,11 @@
+openai
+transformers
+func_timeout
+sqlparse
+requests
+pandas
+tiktoken
+tqdm
+nltk
+flask
+sentence-transformers
