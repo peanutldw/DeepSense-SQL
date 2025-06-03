@@ -9,7 +9,10 @@ conda create -n deepsense-sql python=3.10 -y
 conda activate deepsense-sql
 pip install -r requirements.txt
 python -c "import nltk; nltk.download('punkt')"
+
+fist-stage-ranker：https://drive.google.com/file/d/1OulDBJEVcwkYkNRg6JVKKi5HpMI4TqUE/view
 ```
+
 
 2. Edit openai config at **core/api_config.py**.
 
