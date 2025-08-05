@@ -1,4 +1,4 @@
-## DeepSense-SQL Instruction
+## MixCoT-SQL Instruction
 
 ## ⚡Environment
 
